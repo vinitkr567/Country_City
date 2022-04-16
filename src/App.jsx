@@ -1,8 +1,8 @@
 import { Link, Route, Routes } from "react-router-dom";
 import "./App.css";
-import { Addcity } from "./Components/addCity";
-import { Addcountry } from "./Components/addCountry";
-import { Home } from "./Components/home";
+import { Addcity } from "./Components/Addcity";
+import { Addcountry } from "./Components/AddCountry";
+import { Home } from "./Components/Home";
 
 function App() {
   return (
